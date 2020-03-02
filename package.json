@@ -1,5 +1,5 @@
 {
-  "name": "common",
+  "name": "gamesproseif-common",
   "description": "Common functions and classes I use in most of my projects.",
   "version": "1.0.0",
   "main": "dist/index.js",
